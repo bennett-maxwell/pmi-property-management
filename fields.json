@@ -1,0 +1,1805 @@
+{
+  "slug": "pmi-property-management",
+  "brand": "PMI — Property Management Inc.",
+  "field_count": 195,
+  "franchiseFee": 64900,
+  "totalInvestmentMin": 77239,
+  "totalInvestmentMax": 153775,
+  "royaltyPercent": "7%",
+  "totalUnits": 402,
+  "openLocations": 402,
+  "corporateCity": "Lehi",
+  "corporateState": "UT",
+  "corporateZip": "84043",
+  "corporateAddress": "2901 W Bluegrass Blvd, Ste 420, Lehi, UT 84043",
+  "description": "Property Management Inc. (PMI) is a property-management franchise founded in 2008 and headquartered in Lehi, Utah. Franchisees operate a property management and real-estate services business across five Pillars: Residential, Commercial, Association, Short-Term Rental, and Brokerage. The 2025 FDD reports 402 franchised outlets at the end of 2024 (net +24 that year, zero company-owned), a $64,900 initial franchise fee, a tiered royalty (7%/6%/5% of Gross Revenue plus 5.0% of Brokerage), a 2.0% national marketing fund, and an estimated initial investment of $77,239 to $153,775 per pillar. Item 19 discloses average annual revenue of $259,680 per Residential-pillar franchise (n=197) and $490,760 for the 66 multi-pillar locations. Territories are non-exclusive and individually negotiated; no litigation or bankruptcy is disclosed.",
+  "category": "Property Management",
+  "websiteUrl": "https://www.propertymanagementinc.com",
+  "yearFounded": 2008,
+  "fddYear": 2025,
+  "territoryDescription": "Non-exclusive geographic territory delineated by city/county/state/ZIP/streets; individually negotiated; one Office per territory; no ad/solicitation outside territory without consent; no right of first refusal; franchisor reserves broad rights. Item 12, FDD pp.43-44.",
+  "item12": "non-exclusive",
+  "item20PinCount": 402,
+  "hq_source": "fdd-item-1",
+  "risk_score": 38,
+  "pins": [
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "latitude": 33.40672,
+      "longitude": -112.07118
+    },
+    {
+      "city": "Modesto",
+      "state": "CA",
+      "latitude": 37.66384,
+      "longitude": -120.95555
+    },
+    {
+      "city": "Denver",
+      "state": "CO",
+      "latitude": 39.74001,
+      "longitude": -104.99202
+    },
+    {
+      "city": "Orlando",
+      "state": "FL",
+      "latitude": 28.5902,
+      "longitude": -81.43121
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "latitude": 33.74013,
+      "longitude": -84.34514
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": 41.89678,
+      "longitude": -87.62245
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "latitude": 32.77822,
+      "longitude": -96.79512
+    },
+    {
+      "city": "Charlotte",
+      "state": "NC",
+      "latitude": 35.24153,
+      "longitude": -80.80172
+    }
+  ],
+  "fields": {
+    "breakdown": {
+      "absolute": 178,
+      "theoretical": 9,
+      "matching": 8,
+      "total": 195
+    },
+    "absolute": [
+      {
+        "key": "franchisor_legal_name",
+        "value": "Property Management Incorporated Franchise, LLC",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "franchisor_dba_pmi",
+        "value": "PMI",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "franchisor_dba_property_management_inc",
+        "value": "Property Management Inc.",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "franchisor_formed_date",
+        "value": "2008-03-21",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "franchisor_formation_state",
+        "value": "Wyoming",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "franchisor_entity_type",
+        "value": "limited liability company",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "franchisor_predecessors",
+        "value": "none",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "franchisor_parent",
+        "value": "none",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "hq_street",
+        "value": "2901 W Bluegrass Blvd",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "hq_suite",
+        "value": "Ste 420",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "hq_city",
+        "value": "Lehi",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "hq_state",
+        "value": "Utah",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "hq_zip",
+        "value": "84043",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "hq_phone",
+        "value": "(801) 407-1301",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "affiliate_pmi_investments",
+        "value": "PMI Investments, LLC (Wyoming LLC, formed 2008-03-21)",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "affiliate_pmi_mm",
+        "value": "PMI MM, Inc. (Wyoming corp; franchisor's manager; formed 2008-03-21)",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "affiliate_pmi_international",
+        "value": "PMI International, LLC (Wyoming LLC, formed 2017-01-27)",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "affiliate_pmi_of_utah",
+        "value": "PMI of Utah, LLC (Utah LLC, formed 2011-06-28)",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "affiliate_pmi_ventures",
+        "value": "PMI Ventures, LLC (Wyoming LLC)",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "affiliate_pb_publishing",
+        "value": "PB Publishing Group, LLC (approved training-content supplier)",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "pillar_count",
+        "value": 5,
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "pillar_residential",
+        "value": "Residential: single/multi-family homes, apartments, condos, mobile homes",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "pillar_commercial",
+        "value": "Commercial: office, medical, retail, restaurant, industrial",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "pillar_association",
+        "value": "Association: HOA/condo/commercial owner associations",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "pillar_short_term_rental",
+        "value": "Short-Term Rental: vacation, corporate, executive housing",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "pillar_brokerage",
+        "value": "Brokerage: buying, selling, referring, listing real estate",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "unit_term_door",
+        "value": "Door: residential space with physical address for rent/lease/sale",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "unit_term_key",
+        "value": "Key: residential space rented as short-term rental",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "unit_term_square_foot",
+        "value": "Square Foot: commercial unit space measure",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "unit_term_association_unit",
+        "value": "Unit: individual space within a common-interest association",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "franchisee_independent_operator",
+        "value": "Each franchise independently owned/operated; franchisee is not franchisor's agent",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "officer_ceo",
+        "value": "Steven Hart (CEO since Sep 2019; Co-Founder)",
+        "source": "absolute",
+        "item": "Item 2",
+        "page": "p.4",
+        "note": ""
+      },
+      {
+        "key": "officer_coo",
+        "value": "Stuart McReynolds (COO since Apr 2023)",
+        "source": "absolute",
+        "item": "Item 2",
+        "page": "p.4",
+        "note": ""
+      },
+      {
+        "key": "officer_cgo",
+        "value": "Jeremiah Cundiff (Chief Growth Officer since Jul 2023; was COO 2022-2023)",
+        "source": "absolute",
+        "item": "Item 2",
+        "page": "p.4",
+        "note": ""
+      },
+      {
+        "key": "officer_cfo",
+        "value": "Lon Searle (CFO since May 2018)",
+        "source": "absolute",
+        "item": "Item 2",
+        "page": "p.4",
+        "note": ""
+      },
+      {
+        "key": "officer_compliance",
+        "value": "Kristina Booth (Executive Director, Compliance since Jan 2024)",
+        "source": "absolute",
+        "item": "Item 2",
+        "page": "p.4",
+        "note": ""
+      },
+      {
+        "key": "litigation_disclosed",
+        "value": "none",
+        "source": "absolute",
+        "item": "Item 3",
+        "page": "p.5",
+        "note": ""
+      },
+      {
+        "key": "bankruptcy_disclosed",
+        "value": "none",
+        "source": "absolute",
+        "item": "Item 4",
+        "page": "p.6",
+        "note": ""
+      },
+      {
+        "key": "franchise_fee_new",
+        "value": 64900,
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.6",
+        "note": ""
+      },
+      {
+        "key": "franchise_fee_e2_visa",
+        "value": 90000,
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.6",
+        "note": ""
+      },
+      {
+        "key": "franchise_fee_e2_reserve",
+        "value": "plus one-year Reserve amount",
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.6",
+        "note": ""
+      },
+      {
+        "key": "franchise_fee_conversion_min",
+        "value": 0,
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.6",
+        "note": ""
+      },
+      {
+        "key": "franchise_fee_conversion_max",
+        "value": 64900,
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.6",
+        "note": ""
+      },
+      {
+        "key": "franchise_fee_conversion_threshold",
+        "value": "$5,000+ gross monthly revenue from managed third-party properties",
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.6",
+        "note": ""
+      },
+      {
+        "key": "hardware_software_min",
+        "value": 675,
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "hardware_software_max",
+        "value": 2975,
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "pre_open_total_min",
+        "value": 65575,
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "pre_open_total_max",
+        "value": 92975,
+        "source": "absolute",
+        "item": "Item 5",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_brokerage_pct",
+        "value": "5.0% of Brokerage",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_tier1_pct",
+        "value": "7%",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_tier1_cap",
+        "value": 35000,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_tier2_pct",
+        "value": "6%",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_tier2_band",
+        "value": "$35,001-$75,000",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_tier3_pct",
+        "value": "5%",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_tier3_floor",
+        "value": 75001,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_min_months1_23",
+        "value": 350,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_min_months24_35",
+        "value": 700,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_min_months36plus",
+        "value": 1050,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_self_owned_rents_pct",
+        "value": "0.5% of rents on self-owned rental Doors and Square Feet",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_self_owned_keys_pct",
+        "value": "1% of booking revenue on self-owned Keys",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "royalty_due_date",
+        "value": "15th of each calendar month",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.7",
+        "note": ""
+      },
+      {
+        "key": "marketing_fund_pct",
+        "value": "2.0% of Gross Revenue",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.8",
+        "note": ""
+      },
+      {
+        "key": "marketing_fund_due",
+        "value": "monthly, due 15th",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.8",
+        "note": ""
+      },
+      {
+        "key": "local_ad_min_primary",
+        "value": 1500,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.8",
+        "note": ""
+      },
+      {
+        "key": "local_ad_min_additional_pillar",
+        "value": 1000,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.8",
+        "note": ""
+      },
+      {
+        "key": "digital_essentials_primary",
+        "value": 749,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.8",
+        "note": ""
+      },
+      {
+        "key": "digital_essentials_additional",
+        "value": 250,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.8",
+        "note": ""
+      },
+      {
+        "key": "transfer_fee",
+        "value": 12000,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.9",
+        "note": ""
+      },
+      {
+        "key": "renewal_fee",
+        "value": 10000,
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.9",
+        "note": ""
+      },
+      {
+        "key": "audit_fee_penalty",
+        "value": "50% of understated amount + audit costs + royalties/fees + interest if understatement >= 5%",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.9",
+        "note": ""
+      },
+      {
+        "key": "sales_commission_fee",
+        "value": "$5,000 or 5% of closed sale price (greater), plus transfer fee",
+        "source": "absolute",
+        "item": "Item 17 notes",
+        "page": "p.53",
+        "note": ""
+      },
+      {
+        "key": "payment_method",
+        "value": "EFT required for amounts due to PMI",
+        "source": "absolute",
+        "item": "Item 6",
+        "page": "p.10",
+        "note": ""
+      },
+      {
+        "key": "investment_total_min",
+        "value": 77239,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "investment_total_max",
+        "value": 153775,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "investment_basis",
+        "value": "per Pillar",
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.18",
+        "note": ""
+      },
+      {
+        "key": "inv_rent_min",
+        "value": 0,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_rent_max",
+        "value": 2000,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_leasehold_min",
+        "value": 0,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_leasehold_max",
+        "value": 2500,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_deposits_min",
+        "value": 0,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_deposits_max",
+        "value": 2500,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_training_min",
+        "value": 0,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_training_max",
+        "value": 3800,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_equipment_min",
+        "value": 500,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_equipment_max",
+        "value": 3000,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_computer_min",
+        "value": 675,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_computer_max",
+        "value": 2975,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_local_ad_min",
+        "value": 4500,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_local_ad_max",
+        "value": 13500,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.19",
+        "note": ""
+      },
+      {
+        "key": "inv_insurance_min",
+        "value": 2000,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "inv_insurance_max",
+        "value": 5000,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "inv_professional_min",
+        "value": 0,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "inv_professional_max",
+        "value": 2000,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "inv_additional_funds_min",
+        "value": 3864,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "inv_additional_funds_max",
+        "value": 25000,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "inv_trust_deposit_min",
+        "value": 500,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "inv_trust_deposit_max",
+        "value": 1000,
+        "source": "absolute",
+        "item": "Item 7",
+        "page": "p.20",
+        "note": ""
+      },
+      {
+        "key": "additional_pillar_fee",
+        "value": 10000,
+        "source": "absolute",
+        "item": "Item 7 note 3",
+        "page": "p.21",
+        "note": ""
+      },
+      {
+        "key": "workshop_duration_days",
+        "value": 5,
+        "source": "absolute",
+        "item": "Item 7 note 5",
+        "page": "p.22",
+        "note": ""
+      },
+      {
+        "key": "pmilaunch_duration_weeks",
+        "value": 7,
+        "source": "absolute",
+        "item": "Item 7 note 5",
+        "page": "p.22",
+        "note": ""
+      },
+      {
+        "key": "approved_suppliers_required",
+        "value": "must purchase from Approved Vendors/suppliers",
+        "source": "absolute",
+        "item": "Item 8",
+        "page": "p.24",
+        "note": ""
+      },
+      {
+        "key": "pmisoft_required",
+        "value": "must use PMiSOFT for Doors and Square Feet",
+        "source": "absolute",
+        "item": "Item 8",
+        "page": "p.24",
+        "note": ""
+      },
+      {
+        "key": "sourcing_restrictions_exist",
+        "value": "restrictions on sources of products/services",
+        "source": "absolute",
+        "item": "Item 8",
+        "page": "p.24",
+        "note": ""
+      },
+      {
+        "key": "training_program",
+        "value": "Training Program: weekly live calls + video training, concurrent with Opener",
+        "source": "absolute",
+        "item": "Item 11",
+        "page": "p.33",
+        "note": ""
+      },
+      {
+        "key": "training_fee_initial",
+        "value": "no fee for Operating Principal + 1 other person",
+        "source": "absolute",
+        "item": "Item 11",
+        "page": "p.33",
+        "note": ""
+      },
+      {
+        "key": "workshop",
+        "value": "5-day Workshop at HQ in Utah after Training Program",
+        "source": "absolute",
+        "item": "Item 11",
+        "page": "p.35",
+        "note": ""
+      },
+      {
+        "key": "workshop_extra_person_fee",
+        "value": 1000,
+        "source": "absolute",
+        "item": "Item 7 note 5",
+        "page": "p.22",
+        "note": ""
+      },
+      {
+        "key": "pmilaunch",
+        "value": "7-week task-based launch program starting the week after Workshop",
+        "source": "absolute",
+        "item": "Item 11",
+        "page": "p.35",
+        "note": ""
+      },
+      {
+        "key": "continuing_education",
+        "value": "Principal Operator must participate in Continuing Education",
+        "source": "absolute",
+        "item": "Item 15",
+        "page": "p.48",
+        "note": ""
+      },
+      {
+        "key": "territory_exclusive",
+        "value": "non-exclusive",
+        "source": "absolute",
+        "item": "Item 12",
+        "page": "p.43",
+        "note": ""
+      },
+      {
+        "key": "territory_delineation",
+        "value": "city, county, state, ZIP, boundary streets, highways",
+        "source": "absolute",
+        "item": "Item 12",
+        "page": "p.43",
+        "note": ""
+      },
+      {
+        "key": "territory_negotiated",
+        "value": "individually negotiated; population/economic strength/growth/competitors considered",
+        "source": "absolute",
+        "item": "Item 12",
+        "page": "p.43",
+        "note": ""
+      },
+      {
+        "key": "territory_one_office",
+        "value": "one Office only; relocation within Territory with 10 business days' notice + approval",
+        "source": "absolute",
+        "item": "Item 12",
+        "page": "p.43",
+        "note": ""
+      },
+      {
+        "key": "territory_ad_restriction",
+        "value": "no advertising/soliciting outside Territory (incl. internet/SEO) without consent",
+        "source": "absolute",
+        "item": "Item 12",
+        "page": "p.43",
+        "note": ""
+      },
+      {
+        "key": "territory_no_rofr",
+        "value": "no right of first refusal for additional Businesses",
+        "source": "absolute",
+        "item": "Item 12",
+        "page": "p.43",
+        "note": ""
+      },
+      {
+        "key": "territory_reduction_for_breach",
+        "value": "PMI may reduce Territory on breach of Franchise Agreement",
+        "source": "absolute",
+        "item": "Item 12",
+        "page": "p.43",
+        "note": ""
+      },
+      {
+        "key": "territory_reserved_rights",
+        "value": "franchisor reserves rights: use/license Marks anywhere, other marks, alt channels",
+        "source": "absolute",
+        "item": "Item 12",
+        "page": "p.44",
+        "note": ""
+      },
+      {
+        "key": "trademarks_owned_by",
+        "value": "owned by Affiliate; licensed to franchisor; sublicensable to franchisees",
+        "source": "absolute",
+        "item": "Item 13",
+        "page": "p.44",
+        "note": ""
+      },
+      {
+        "key": "patents_material",
+        "value": "none",
+        "source": "absolute",
+        "item": "Item 14",
+        "page": "p.47",
+        "note": ""
+      },
+      {
+        "key": "proprietary_information",
+        "value": "Operations Manual and proprietary systems protected",
+        "source": "absolute",
+        "item": "Item 14",
+        "page": "p.47",
+        "note": ""
+      },
+      {
+        "key": "personal_participation",
+        "value": "not required; recommended",
+        "source": "absolute",
+        "item": "Item 15",
+        "page": "p.48",
+        "note": ""
+      },
+      {
+        "key": "legal_entity_required",
+        "value": "franchisee must form a legal entity",
+        "source": "absolute",
+        "item": "Item 15",
+        "page": "p.48",
+        "note": ""
+      },
+      {
+        "key": "principal_operator",
+        "value": "must designate a Principal Operator, approved by PMI",
+        "source": "absolute",
+        "item": "Item 15",
+        "page": "p.48",
+        "note": ""
+      },
+      {
+        "key": "sell_only_approved",
+        "value": "franchisee may sell only PMI-approved services; operate only within Territory",
+        "source": "absolute",
+        "item": "Item 16",
+        "page": "p.48",
+        "note": ""
+      },
+      {
+        "key": "initial_term_years",
+        "value": 10,
+        "source": "absolute",
+        "item": "Item 17",
+        "page": "p.49",
+        "note": ""
+      },
+      {
+        "key": "renewal_term_years",
+        "value": 10,
+        "source": "absolute",
+        "item": "Item 17",
+        "page": "p.50",
+        "note": ""
+      },
+      {
+        "key": "renewal_conditions",
+        "value": "no material default; notice; pay renewal fee; may sign current agreement form",
+        "source": "absolute",
+        "item": "Item 17",
+        "page": "p.50",
+        "note": ""
+      },
+      {
+        "key": "transfer_defined",
+        "value": "assignment/sale/gift/pledge/mortgage/disposition of franchise interest",
+        "source": "absolute",
+        "item": "Item 17",
+        "page": "p.51",
+        "note": ""
+      },
+      {
+        "key": "transfer_approval",
+        "value": "franchisor approval required; transferee pays training",
+        "source": "absolute",
+        "item": "Item 17",
+        "page": "p.51",
+        "note": ""
+      },
+      {
+        "key": "rofr_days",
+        "value": 30,
+        "source": "absolute",
+        "item": "Item 17",
+        "page": "p.52",
+        "note": ""
+      },
+      {
+        "key": "noncompete_during",
+        "value": "franchisee/family/operator/owners cannot operate similar business during term",
+        "source": "absolute",
+        "item": "Item 17",
+        "page": "p.52",
+        "note": ""
+      },
+      {
+        "key": "noncompete_after_years",
+        "value": 2,
+        "source": "absolute",
+        "item": "Item 17",
+        "page": "p.52",
+        "note": ""
+      },
+      {
+        "key": "death_disability",
+        "value": "heirs can operate if qualified",
+        "source": "absolute",
+        "item": "Item 17",
+        "page": "p.52",
+        "note": ""
+      },
+      {
+        "key": "public_figures",
+        "value": "none; no compensation or benefit promised",
+        "source": "absolute",
+        "item": "Item 18",
+        "page": "p.53",
+        "note": ""
+      },
+      {
+        "key": "item19_location_base",
+        "value": 402,
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.53",
+        "note": ""
+      },
+      {
+        "key": "item19_data_source",
+        "value": "unaudited franchisee financials/operating reports or PMI accounting software",
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.53",
+        "note": ""
+      },
+      {
+        "key": "item19_excluded_nonreporters",
+        "value": 6,
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.53",
+        "note": ""
+      },
+      {
+        "key": "item19_excluded_residential",
+        "value": 105,
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "item19_excluded_association",
+        "value": 48,
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "item19_excluded_str",
+        "value": 48,
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "item19_excluded_commercial",
+        "value": 134,
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_res_avg",
+        "value": 1880,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_res_median",
+        "value": 1950,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_res_n",
+        "value": 197,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_com_avg",
+        "value": 1250,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_com_median",
+        "value": 1100,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_com_n",
+        "value": 23,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_assoc_avg",
+        "value": 17450,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_assoc_median",
+        "value": 16990,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_assoc_n",
+        "value": 84,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_str_avg",
+        "value": 11910,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_str_median",
+        "value": 8780,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "rev_per_unit_str_n",
+        "value": 62,
+        "source": "absolute",
+        "item": "Item 19 Table 1",
+        "page": "p.54",
+        "note": ""
+      },
+      {
+        "key": "avg_doors_res",
+        "value": 138,
+        "source": "absolute",
+        "item": "Item 19 Table 2",
+        "page": "p.55",
+        "note": ""
+      },
+      {
+        "key": "median_doors_res",
+        "value": 99,
+        "source": "absolute",
+        "item": "Item 19 Table 2",
+        "page": "p.55",
+        "note": ""
+      },
+      {
+        "key": "avg_units_com",
+        "value": 27,
+        "source": "absolute",
+        "item": "Item 19 Table 2",
+        "page": "p.55",
+        "note": ""
+      },
+      {
+        "key": "avg_assoc_count",
+        "value": 14,
+        "source": "absolute",
+        "item": "Item 19 Table 2",
+        "page": "p.55",
+        "note": ""
+      },
+      {
+        "key": "avg_keys_str",
+        "value": 23,
+        "source": "absolute",
+        "item": "Item 19 Table 2",
+        "page": "p.55",
+        "note": ""
+      },
+      {
+        "key": "annual_rev_res_avg",
+        "value": 259680,
+        "source": "absolute",
+        "item": "Item 19 Table 3",
+        "page": "p.56",
+        "note": ""
+      },
+      {
+        "key": "annual_rev_com_avg",
+        "value": 30815,
+        "source": "absolute",
+        "item": "Item 19 Table 3",
+        "page": "p.56",
+        "note": ""
+      },
+      {
+        "key": "annual_rev_assoc_avg",
+        "value": 249270,
+        "source": "absolute",
+        "item": "Item 19 Table 3",
+        "page": "p.56",
+        "note": ""
+      },
+      {
+        "key": "annual_rev_str_avg",
+        "value": 275380,
+        "source": "absolute",
+        "item": "Item 19 Table 3",
+        "page": "p.56",
+        "note": ""
+      },
+      {
+        "key": "annual_rev_multipillar_avg",
+        "value": 490760,
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.56",
+        "note": ""
+      },
+      {
+        "key": "multipillar_location_count",
+        "value": 66,
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.56",
+        "note": ""
+      },
+      {
+        "key": "item20_franchised_2024_end",
+        "value": 402,
+        "source": "absolute",
+        "item": "Item 20 Table 1",
+        "page": "p.57",
+        "note": ""
+      },
+      {
+        "key": "item20_franchised_2024_start",
+        "value": 378,
+        "source": "absolute",
+        "item": "Item 20 Table 1",
+        "page": "p.57",
+        "note": ""
+      },
+      {
+        "key": "item20_franchised_net_2024",
+        "value": 24,
+        "source": "absolute",
+        "item": "Item 20 Table 1",
+        "page": "p.57",
+        "note": ""
+      },
+      {
+        "key": "item20_company_owned_2024_end",
+        "value": 0,
+        "source": "absolute",
+        "item": "Item 20 Table 1",
+        "page": "p.57",
+        "note": ""
+      },
+      {
+        "key": "item20_transfers_2024",
+        "value": 2,
+        "source": "absolute",
+        "item": "Item 20 Table 2",
+        "page": "p.59",
+        "note": ""
+      },
+      {
+        "key": "item20_terminations_2024",
+        "value": 22,
+        "source": "absolute",
+        "item": "Item 20 Table 3",
+        "page": "p.64",
+        "note": ""
+      },
+      {
+        "key": "item20_international",
+        "value": "3 (Costa Rica, Curacao, Malta)",
+        "source": "absolute",
+        "item": "Item 20 fn",
+        "page": "p.57",
+        "note": ""
+      },
+      {
+        "key": "item20_projected_new_next_year",
+        "value": 47,
+        "source": "absolute",
+        "item": "Item 20 Table 5",
+        "page": "p.66",
+        "note": ""
+      },
+      {
+        "key": "item20_signed_not_open",
+        "value": 48,
+        "source": "absolute",
+        "item": "Item 20 Table 5",
+        "page": "p.66",
+        "note": ""
+      },
+      {
+        "key": "item20_state_count",
+        "value": "48 states",
+        "source": "absolute",
+        "item": "Item 20 Table 3",
+        "page": "pp.60-64",
+        "note": ""
+      },
+      {
+        "key": "year_founded",
+        "value": 2008,
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "fdd_year",
+        "value": 2025,
+        "source": "absolute",
+        "item": "FDD cover",
+        "page": "p.1",
+        "note": ""
+      },
+      {
+        "key": "category",
+        "value": "Property Management",
+        "source": "absolute",
+        "item": "Item 1",
+        "page": "p.2",
+        "note": ""
+      },
+      {
+        "key": "fpr_contact_email",
+        "value": "info@PropertyManagementInc.com",
+        "source": "absolute",
+        "item": "Item 19",
+        "page": "p.56",
+        "note": ""
+      }
+    ],
+    "theoretical": [
+      {
+        "key": "risk_score",
+        "value": 38,
+        "source": "theoretical",
+        "method": "Weighted 0-100 buyer-risk model (higher = riskier): base 40; +6 2024 closure rate 5.5% (22 terminations / 397 US franchised, Item 20 Table 3); -8 no litigation (Item 3); -4 no bankruptcy (Item 4); -6 net outlet growth +6.4% in 2024 (Item 20 Table 1); +6 franchise fee is 84% of minimum investment; +4 ongoing fee load (7% royalty tier + 2% marketing + $1,500/mo local ad + $749/mo digital, Item 6); +2 Item 19 confidence MODERATE (exclusions documented); +5 non-exclusive territory (Item 12); -5 17-year franchising history (since 2008); -2 low 2024 transfer count (2)."
+      },
+      {
+        "key": "closure_rate_2024_pct",
+        "value": 5.54,
+        "source": "theoretical",
+        "method": "Item 20 Table 3 2024 terminations (22) / Table 3 year-end US franchised outlets (397) x 100. 3-yr total closures = 75 (2022: 17+2; 2023: 33+1; 2024: 22)."
+      },
+      {
+        "key": "franchise_growth_3yr",
+        "value": "+6.4% in 2024; franchised outlets 354 -> 402 (2022-2024)",
+        "source": "theoretical",
+        "method": "(402-378)/378 from Item 20 Table 1; 2022 start 354, 2024 end 402."
+      },
+      {
+        "key": "royalty_fee_burden_estimate",
+        "value": "up to 9% of Gross Revenue plus fixed minimums",
+        "source": "theoretical",
+        "method": "Sum of Item 6 rates: 7% top royalty tier + 2% national marketing fund; plus $1,500/mo local-ad minimum, $749/mo Digital Essentials, and $350/$700/$1,050 minimum monthly royalty ramp."
+      },
+      {
+        "key": "payback_period_estimate",
+        "value": "insufficient-data",
+        "source": "theoretical",
+        "method": "Would require net profit per outlet; Item 19 discloses revenue only (no costs/expenses). Not estimated to avoid fabrication."
+      },
+      {
+        "key": "territory_saturation_index",
+        "value": "insufficient-data",
+        "source": "theoretical",
+        "method": "Would require franchisee-level door counts per territory; not disclosed in FDD."
+      },
+      {
+        "key": "franchisor_support_score",
+        "value": "MODERATE",
+        "source": "theoretical",
+        "method": "Qualitative: Training Program + 5-day Workshop + 7-week PMiLAUNCH + PMiSOFT provided (Items 7/11/15); offset by non-exclusive territory and high fixed local-ad/digital minimums (Items 6/12)."
+      },
+      {
+        "key": "item19_confidence",
+        "value": "MODERATE",
+        "source": "theoretical",
+        "method": "Strongest pillar n=197 of 402; but 105 residential, 48 association, 48 STR, 134 commercial franchises excluded (no units or insufficient data); source is unaudited franchisee reports; exclusions documented in Item 19."
+      },
+      {
+        "key": "fee_efficiency_ratio",
+        "value": "franchise fee is 84% of minimum initial investment",
+        "source": "theoretical",
+        "method": "$64,900 (Item 5) / $77,239 (Item 7 minimum)."
+      }
+    ],
+    "matching": [
+      {
+        "key": "capital_fit",
+        "value": "Requires $77,239-$153,775 accessible capital per pillar; best for buyers with $80K+ liquid.",
+        "source": "matching",
+        "method": "Item 7 range vs buyer capital profile."
+      },
+      {
+        "key": "experience_fit",
+        "value": "No license required by FDD; Principal Operator completes Pillar Certification; real-estate/brokerage background accelerates.",
+        "source": "matching",
+        "method": "Items 7 note 3, 15."
+      },
+      {
+        "key": "operational_fit",
+        "value": "Home office allowed; semi-absentee possible (personal participation not required); scale via doors/keys/units.",
+        "source": "matching",
+        "method": "Items 7 note 2, 15."
+      },
+      {
+        "key": "lifestyle_fit",
+        "value": "Multi-pillar portfolio-builder model; onboarding = 5-day Utah workshop + 7-week PMiLAUNCH.",
+        "source": "matching",
+        "method": "Items 7 note 5, 11."
+      },
+      {
+        "key": "risk_fit",
+        "value": "Moderate-risk buyer: 17-year system, no litigation/bankruptcy, 5.5% 2024 closure rate, non-exclusive territory.",
+        "source": "matching",
+        "method": "Risk model inputs from Items 3, 4, 12, 20."
+      },
+      {
+        "key": "location_fit",
+        "value": "Outlets in 48 states; territory individually negotiated; one office per territory.",
+        "source": "matching",
+        "method": "Items 12, 20 Table 3."
+      },
+      {
+        "key": "timeline_fit",
+        "value": "3-month additional-funds window in Item 7; training + workshop + 7-week PMiLAUNCH before full launch.",
+        "source": "matching",
+        "method": "Items 7, 11."
+      },
+      {
+        "key": "pillar_fit",
+        "value": "Select a Primary Pillar (typically Residential); add pillars at $10,000 each after certification.",
+        "source": "matching",
+        "method": "Item 7 note 3."
+      }
+    ],
+    "netWorthRequirement": "not disclosed in FDD",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirement": "not disclosed in FDD",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "pinVerification": {
+      "run_at": "2026-09-13T01:37:13Z",
+      "all_verified": true,
+      "pins_total": 8
+    },
+    "pinsUpdatedAt": "2026-09-13T01:37:13Z"
+  },
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-13T01:37:13Z",
+    "pins_total": 8,
+    "pins_verified": 8,
+    "pins_unverifiable": 0,
+    "pins_mismatch": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Phoenix",
+        "state": "AZ",
+        "stored": [
+          33.40672,
+          -112.07118
+        ],
+        "geocoded": [
+          33.4484367,
+          -112.074141
+        ],
+        "distance_km": 4.65,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Modesto",
+        "state": "CA",
+        "stored": [
+          37.66384,
+          -120.95555
+        ],
+        "geocoded": [
+          37.6393419,
+          -120.9968892
+        ],
+        "distance_km": 4.55,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Denver",
+        "state": "CO",
+        "stored": [
+          39.74001,
+          -104.99202
+        ],
+        "geocoded": [
+          39.7392364,
+          -104.984862
+        ],
+        "distance_km": 0.62,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Orlando",
+        "state": "FL",
+        "stored": [
+          28.5902,
+          -81.43121
+        ],
+        "geocoded": [
+          28.5421218,
+          -81.379045
+        ],
+        "distance_km": 7.38,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Atlanta",
+        "state": "GA",
+        "stored": [
+          33.74013,
+          -84.34514
+        ],
+        "geocoded": [
+          33.7544657,
+          -84.3898151
+        ],
+        "distance_km": 4.43,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Chicago",
+        "state": "IL",
+        "stored": [
+          41.89678,
+          -87.62245
+        ],
+        "geocoded": [
+          41.8755616,
+          -87.6244212
+        ],
+        "distance_km": 2.37,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Dallas",
+        "state": "TX",
+        "stored": [
+          32.77822,
+          -96.79512
+        ],
+        "geocoded": [
+          32.7762719,
+          -96.7968559
+        ],
+        "distance_km": 0.27,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "Charlotte",
+        "state": "NC",
+        "stored": [
+          35.24153,
+          -80.80172
+        ],
+        "geocoded": [
+          35.2272086,
+          -80.8430827
+        ],
+        "distance_km": 4.08,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-13T01:37:13Z",
+  "risk_method": "base 40 adjusted by 8 published qualitative inputs (closure rate, net growth, litigation/bankruptcy, fee burden, fee-to-investment ratio, territory, transfers, Item 19 confidence); per-factor weights were never published by the builder, so no recompute is possible - displayed score 38 carried as-is",
+  "risk_components": [
+    {
+      "name": "closure_rate_2024",
+      "weight": null,
+      "note": "2024 closure rate 5.54% (22 terminations / 397 U.S. franchised; Item 20 Table 3). Per-factor weight not published."
+    },
+    {
+      "name": "net_outlet_growth",
+      "weight": null,
+      "note": "net outlet growth 2024 +6.4% (378 -> 402 franchised; Item 20 Table 1). Per-factor weight not published."
+    },
+    {
+      "name": "litigation_bankruptcy",
+      "weight": null,
+      "note": "none disclosed (Items 3-4). Per-factor weight not published."
+    },
+    {
+      "name": "fee_burden",
+      "weight": null,
+      "note": "up to 9% of Gross Revenue (7% royalty tier + 2% marketing) + $1,500/mo local ad + $749/mo digital (Item 6). Per-factor weight not published."
+    },
+    {
+      "name": "fee_to_investment_ratio",
+      "weight": null,
+      "note": "franchise fee = 84% of minimum initial investment ($64,900 / $77,239). Per-factor weight not published."
+    },
+    {
+      "name": "territory",
+      "weight": null,
+      "note": "non-exclusive, individually negotiated (Item 12). Per-factor weight not published."
+    },
+    {
+      "name": "transfers_2024",
+      "weight": null,
+      "note": "2024 transfers: 2 - low churn signal (Item 20 Table 2). Per-factor weight not published."
+    },
+    {
+      "name": "item19_confidence",
+      "weight": null,
+      "note": "MODERATE (exclusions documented, unaudited data). Per-factor weight not published."
+    }
+  ],
+  "risk_source": "page risk inputs (per-factor weights NEVER published by builder)"
+}
