@@ -1,6 +1,6 @@
 {
   "slug": "pmi-property-management",
-  "brand": "PMI — Property Management Inc.",
+  "brand": "PMI \u2014 Property Management Inc.",
   "field_count": 195,
   "franchiseFee": 64900,
   "totalInvestmentMin": 77239,
@@ -1612,9 +1612,9 @@
       }
     ],
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
       "run_at": "2026-09-13T01:37:13Z",
       "all_verified": true,
@@ -1623,16 +1623,16 @@
     "pinsUpdatedAt": "2026-09-13T01:37:13Z"
   },
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
-    "run_at": "2026-09-13T01:37:13Z",
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
+    "run_utc": "2026-09-15T02:49:47.095994+00:00",
     "pins_total": 8,
     "pins_verified": 8,
-    "pins_unverifiable": 0,
     "pins_mismatch": 0,
+    "pins_unverifiable": 0,
     "all_verified": true,
     "per_pin": [
       {
@@ -1644,9 +1644,10 @@
           -112.07118
         ],
         "geocoded": [
-          33.4484367,
+          33.448437,
           -112.074141
         ],
+        "geocode_query": "Phoenix, Arizona, United States",
         "distance_km": 4.65,
         "status": "VERIFIED"
       },
@@ -1659,9 +1660,10 @@
           -120.95555
         ],
         "geocoded": [
-          37.6393419,
-          -120.9968892
+          37.639342,
+          -120.996889
         ],
+        "geocode_query": "Modesto, California, United States",
         "distance_km": 4.55,
         "status": "VERIFIED"
       },
@@ -1674,9 +1676,10 @@
           -104.99202
         ],
         "geocoded": [
-          39.7392364,
+          39.739236,
           -104.984862
         ],
+        "geocode_query": "Denver, Colorado, United States",
         "distance_km": 0.62,
         "status": "VERIFIED"
       },
@@ -1689,9 +1692,10 @@
           -81.43121
         ],
         "geocoded": [
-          28.5421218,
+          28.542122,
           -81.379045
         ],
+        "geocode_query": "Orlando, Florida, United States",
         "distance_km": 7.38,
         "status": "VERIFIED"
       },
@@ -1704,9 +1708,10 @@
           -84.34514
         ],
         "geocoded": [
-          33.7544657,
-          -84.3898151
+          33.754466,
+          -84.389815
         ],
+        "geocode_query": "Atlanta, Georgia, United States",
         "distance_km": 4.43,
         "status": "VERIFIED"
       },
@@ -1719,9 +1724,10 @@
           -87.62245
         ],
         "geocoded": [
-          41.8755616,
-          -87.6244212
+          41.875562,
+          -87.624421
         ],
+        "geocode_query": "Chicago, Illinois, United States",
         "distance_km": 2.37,
         "status": "VERIFIED"
       },
@@ -1734,9 +1740,10 @@
           -96.79512
         ],
         "geocoded": [
-          32.7762719,
-          -96.7968559
+          32.776272,
+          -96.796856
         ],
+        "geocode_query": "Dallas, Texas, United States",
         "distance_km": 0.27,
         "status": "VERIFIED"
       },
@@ -1749,15 +1756,16 @@
           -80.80172
         ],
         "geocoded": [
-          35.2272086,
-          -80.8430827
+          35.227209,
+          -80.843083
         ],
+        "geocode_query": "Charlotte, North Carolina, United States",
         "distance_km": 4.08,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-13T01:37:13Z",
+  "pinsUpdatedAt": "2026-09-15T02:49:47.095994+00:00",
   "risk_method": "base 40 adjusted by 8 published qualitative inputs (closure rate, net growth, litigation/bankruptcy, fee burden, fee-to-investment ratio, territory, transfers, Item 19 confidence); per-factor weights were never published by the builder, so no recompute is possible - displayed score 38 carried as-is",
   "risk_components": [
     {
@@ -1801,5 +1809,7 @@
       "note": "MODERATE (exclusions documented, unaudited data). Per-factor weight not published."
     }
   ],
-  "risk_source": "page risk inputs (per-factor weights NEVER published by builder)"
+  "risk_source": "page risk inputs (per-factor weights NEVER published by builder)",
+  "logoUrl": "https://www.propertymanagementinc.com/images/logo.svg?v3",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*"
 }
