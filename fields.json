@@ -1,6 +1,6 @@
 {
   "slug": "pmi-property-management",
-  "brand": "PMI \u2014 Property Management Inc.",
+  "brand": "PMI — Property Management Inc.",
   "field_count": 195,
   "franchiseFee": 64900,
   "totalInvestmentMin": 77239,
@@ -17,7 +17,7 @@
   "websiteUrl": "https://www.propertymanagementinc.com",
   "yearFounded": 2008,
   "fddYear": 2025,
-  "territoryDescription": "Non-exclusive geographic territory delineated by city/county/state/ZIP/streets; individually negotiated; one Office per territory; no ad/solicitation outside territory without consent; no right of first refusal; franchisor reserves broad rights. Item 12, FDD pp.43-44.",
+  "territoryDescription": "Non-exclusive geographic territory delineated by city/county/state/ZIP/streets; individually negotiated; one Office per territory; no ad/solicitation outside territory without consent; no right of first refusal; franchisor reserves broad rights. Item 12, FDD pp.43-44. FDD Item 19 (p53) cites 402 total locations as of 2024-12-31; 8 are mapped as pins on this page.",
   "item12": "non-exclusive",
   "item20PinCount": 402,
   "hq_source": "fdd-item-1",
@@ -1612,27 +1612,27 @@
       }
     ],
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
-      "run_at": "2026-09-13T01:37:13Z",
+      "run_at": "2026-09-15T04:28:59Z",
       "all_verified": true,
       "pins_total": 8
     },
-    "pinsUpdatedAt": "2026-09-13T01:37:13Z"
+    "pinsUpdatedAt": "2026-09-15T04:28:59Z"
   },
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
-    "run_utc": "2026-09-15T02:49:47.095994+00:00",
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-15T04:28:59Z",
     "pins_total": 8,
     "pins_verified": 8,
-    "pins_mismatch": 0,
     "pins_unverifiable": 0,
+    "pins_mismatch": 0,
     "all_verified": true,
     "per_pin": [
       {
@@ -1644,10 +1644,9 @@
           -112.07118
         ],
         "geocoded": [
-          33.448437,
+          33.4484367,
           -112.074141
         ],
-        "geocode_query": "Phoenix, Arizona, United States",
         "distance_km": 4.65,
         "status": "VERIFIED"
       },
@@ -1660,10 +1659,9 @@
           -120.95555
         ],
         "geocoded": [
-          37.639342,
-          -120.996889
+          37.6393419,
+          -120.9968892
         ],
-        "geocode_query": "Modesto, California, United States",
         "distance_km": 4.55,
         "status": "VERIFIED"
       },
@@ -1676,10 +1674,9 @@
           -104.99202
         ],
         "geocoded": [
-          39.739236,
+          39.7392364,
           -104.984862
         ],
-        "geocode_query": "Denver, Colorado, United States",
         "distance_km": 0.62,
         "status": "VERIFIED"
       },
@@ -1692,10 +1689,9 @@
           -81.43121
         ],
         "geocoded": [
-          28.542122,
+          28.5421218,
           -81.379045
         ],
-        "geocode_query": "Orlando, Florida, United States",
         "distance_km": 7.38,
         "status": "VERIFIED"
       },
@@ -1708,10 +1704,9 @@
           -84.34514
         ],
         "geocoded": [
-          33.754466,
-          -84.389815
+          33.7544657,
+          -84.3898151
         ],
-        "geocode_query": "Atlanta, Georgia, United States",
         "distance_km": 4.43,
         "status": "VERIFIED"
       },
@@ -1724,10 +1719,9 @@
           -87.62245
         ],
         "geocoded": [
-          41.875562,
-          -87.624421
+          41.8755616,
+          -87.6244212
         ],
-        "geocode_query": "Chicago, Illinois, United States",
         "distance_km": 2.37,
         "status": "VERIFIED"
       },
@@ -1740,10 +1734,9 @@
           -96.79512
         ],
         "geocoded": [
-          32.776272,
-          -96.796856
+          32.7762719,
+          -96.7968559
         ],
-        "geocode_query": "Dallas, Texas, United States",
         "distance_km": 0.27,
         "status": "VERIFIED"
       },
@@ -1756,16 +1749,15 @@
           -80.80172
         ],
         "geocoded": [
-          35.227209,
-          -80.843083
+          35.2272086,
+          -80.8430827
         ],
-        "geocode_query": "Charlotte, North Carolina, United States",
         "distance_km": 4.08,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-15T02:49:47.095994+00:00",
+  "pinsUpdatedAt": "2026-09-15T04:28:59Z",
   "risk_method": "base 40 adjusted by 8 published qualitative inputs (closure rate, net growth, litigation/bankruptcy, fee burden, fee-to-investment ratio, territory, transfers, Item 19 confidence); per-factor weights were never published by the builder, so no recompute is possible - displayed score 38 carried as-is",
   "risk_components": [
     {
@@ -1811,5 +1803,8 @@
   ],
   "risk_source": "page risk inputs (per-factor weights NEVER published by builder)",
   "logoUrl": "https://www.propertymanagementinc.com/images/logo.svg?v3",
-  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*"
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
+  "adFee": "2.0%",
+  "adFeeNote": "FDD Item 6 (p12): National Marketing Fund 2.0% of Gross Revenue; Local Advertising minimum $1,500/mo (primary pillar).",
+  "territoryType": "non-exclusive"
 }
